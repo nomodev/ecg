@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\cohen\Desktop\ECG\ECG_AUDIO_OUT.net
-Start Time: Sat Jul 18 00:20:41 2026
+Start Time: Sat Jul 18 14:25:29 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -32,7 +32,7 @@ Changing Tseed to 5e-11
 Changing Tseed to 5e-08
 Changing Tseed to 5e-12
 Changing Tseed to 5e-07
-Total elapsed time: 1.151 seconds.
+Total elapsed time: 2.569 seconds.
 
 Files loaded:
 C:\Users\cohen\Desktop\ECG\ECG_AUDIO_OUT.net
