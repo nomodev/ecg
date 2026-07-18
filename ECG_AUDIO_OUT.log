@@ -1,6 +1,6 @@
 LTspice 24.1.9 for Windows
 Circuit: C:\Users\cohen\Desktop\ECG\ECG_AUDIO_OUT.net
-Start Time: Sat Jul 18 16:33:29 2026
+Start Time: Sat Jul 18 17:37:14 2026
 solver = Normal
 Maximum thread count: 16
 tnom = 27
@@ -27,7 +27,7 @@ Gmin = 2.70769e-13
 Gmin = 0
 Gmin stepping succeeded in finding the operating point.
 
-Total elapsed time: 4.992 seconds.
+Total elapsed time: 5.433 seconds.
 
 Files loaded:
 C:\Users\cohen\Desktop\ECG\ECG_AUDIO_OUT.net
