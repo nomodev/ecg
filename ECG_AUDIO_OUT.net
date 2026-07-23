@@ -52,7 +52,7 @@ C6 N013 0 0.1µ
 C7 N024 N023 0.001µ
 .model D D
 .lib C:\Users\cohen\AppData\Local\LTspice\lib\cmp\standard.dio
-.tran 0 5 0 100u ;
+.tran 0 3 0 2u ;
 .lib LTC.lib
 .backanno
 .end
